@@ -14,19 +14,19 @@ local table_tools = require("table_tools");
 
 -- print(table_tools.jsonStrToTable('{"xs": 3}').xs);
 
-_M = {};
+-- _M = {};
 
 
-_M["s"] = 22221;
+-- _M["s"] = 22221;
 
-if nil == _M["sssss"] then
-    print("got nil");
-else
-    print(_M["sssss"]);
-end
+-- if nil == _M["sssss"] then
+--     print("got nil");
+-- else
+--     print(_M["sssss"]);
+-- end
 
 
-print(_M["s"]);
+-- print(_M["s"]);
 
 
 
